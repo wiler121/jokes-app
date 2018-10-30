@@ -9,4 +9,7 @@ public class JokesappApplication {
     public static void main(String[] args) {
         SpringApplication.run(JokesappApplication.class, args);
     }
+
 }
+
+
